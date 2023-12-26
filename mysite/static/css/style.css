@@ -1,0 +1,15 @@
+.row{
+    margin: 30px;
+    justify-content: center;
+}
+
+.profile{
+    margin: 20px;
+}
+
+.basket_item{
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 400px;
+    padding: 20px;
+}
